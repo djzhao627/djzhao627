@@ -1,4 +1,4 @@
-### Helloooooo~ I am DJZHAO, NICE to MEET U! 👋
+### Helloooooo~ I am DJZHAO, NICE to MEET U! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I am here to opensource stuff and learn things from all you guys.🥰
 
@@ -8,9 +8,15 @@ I am here to opensource stuff and learn things from all you guys.🥰
 - 😄 Pronouns: 一碗单炒饭
 - ⚡ Fun fact: I ❤️ 🐱🐶s and Gaming 
 
+---
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djzhao627)](https://github.com/djzhao627)
 
 <!--
 **djzhao627/djzhao627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
