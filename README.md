@@ -9,8 +9,8 @@ I am here to opensource stuff and learn things from all you guys.🥰
 - ⚡ Fun fact: I ❤️ 🐱🐶s and Gaming 
 
 ### 📕 Latest Blog Posts
-<!-- BLOCK-POST-LIST:START -->
-<!-- BLOCK-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **djzhao627/djzhao627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
