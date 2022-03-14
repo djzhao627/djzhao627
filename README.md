@@ -8,11 +8,9 @@ I am here to opensource stuff and learn things from all you guys.🥰
 - 😄 Pronouns: 一碗单炒饭
 - ⚡ Fun fact: I ❤️ 🐱🐶s and Gaming 
 
----
-
 [![djzhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=djzhao627&show_icons=true)](https://github.com/djzhao627)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djzhao627&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djzhao627&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
