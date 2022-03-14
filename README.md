@@ -1,4 +1,4 @@
-### Helloooooo~ I am DJZHAO, NICE to MEET U! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Helloooooo~ I am DJZHAO, NICE to MEET U! <a href="https://github.com/djzhao627"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 I am here to opensource stuff and learn things from all you guys.🥰
 
@@ -10,6 +10,12 @@ I am here to opensource stuff and learn things from all you guys.🥰
 
 ---
 
+[![djzhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=djzhao627&show_icons=true)](https://github.com/djzhao627)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djzhao627&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [[原]zTree获取所有选中的叶子节点](https://blog.csdn.net/djzhao627/article/details/123452161)
@@ -18,10 +24,6 @@ I am here to opensource stuff and learn things from all you guys.🥰
 - [[原]国内开源镜像站地址汇总](https://blog.csdn.net/djzhao627/article/details/122999240)
 - [[原]python使用163邮箱提示：554, b‘DT:SPM 163 smtp13](https://blog.csdn.net/djzhao627/article/details/121093804)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djzhao627)](https://github.com/djzhao627)
 
 <!--
 **djzhao627/djzhao627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
