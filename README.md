@@ -1,4 +1,4 @@
-### Helloooooo~ I am DJZHAO, NICE to MEET U! <a href="https://github.com/djzhao627"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Helloooooo~ I am DJZHAO, NICE to MEET U! <a href="https://github.com/djzhao627"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
 I am here to opensource stuff and learn things from all you guys.🥰
 
