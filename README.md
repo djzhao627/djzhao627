@@ -2,8 +2,8 @@
 
 I am here to opensource stuff and learn things from all you guys.🥰
 
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Android, Flutter
+- 🔭 I’m currently working on FE, Java and Android
+- 🌱 I’m currently learning TS, Vue2/3, Android and Flutter
 - 📫 How to reach me: [@Gmail](mailto://djzhao627@gmail.com) or [Homepage](https://djzhao.js.org)
 - 😄 Pronouns: 一碗单炒饭
 - ⚡ Fun fact: I ❤️ 🐱🐶s and Gaming 
